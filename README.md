@@ -1,4 +1,35 @@
-### Hi there 👋
+# Eurodrive
+## Also known as Jay.
+Hello! I'm Jay.
+
+## I'm currently working on...
+### Numeric.Optimize
+A Haskell numerical optimization and automatic differentiation library.
+### Studying.
+
+## I'm currently learning...
+### Derivative-free optimization.
+Such as Nelder-Mead.
+
+## I'm looking to collaborate on...
+### Haskell projects.
+Specifically machine-learning-related.
+
+## I'm looking for help with...
+### Understanding convergence patterns of line-search algorithms on highly non-convex functions.
+Hopefully *something*.
+
+## Ask me about...
+### Haskell.
+Anything! It's my most-used language.
+### Numerical optimization.
+My favorite topic.
+
+## How to reach me...
+### Email!
+
+## Pronouns...
+### They/Them
 
 <!--
 **Eurodrive/Eurodrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
