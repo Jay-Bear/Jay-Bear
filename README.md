@@ -31,6 +31,9 @@ My favorite topic.
 ## Pronouns...
 ### They/Them
 
+## Despite the logo and such...
+### I don't like Windows, I prefer macOS.
+
 <!--
 **Eurodrive/Eurodrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
