@@ -1,5 +1,5 @@
-# Eurodrive
-## Also known as Jay.
+# Jay Bear
+## Literally a bear.
 Hello! I'm Jay.
 
 ## I'm currently working on...
