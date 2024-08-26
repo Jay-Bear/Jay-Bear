@@ -4,10 +4,11 @@ Hello! I'm Jay.
 
 ## I'm currently working on...
 ### Research.
-Using machine learning to learn algorithms for hard problems.
+Recurrent neural networks for processing. Theoretical underpinnings for this
+(norms, dynamics, Lipschitzness, *etc.*).
 
 ## I'm currently learning...
-### Proofs on Group Theory.
+### Dynamical Systems Theory and Bifurcations
 Required for research.
 
 ## I'm looking to collaborate on...
