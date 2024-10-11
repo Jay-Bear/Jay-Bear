@@ -1,27 +1,29 @@
 # Jay Bear
-## Literally a bear.
+## Literally a Bear
 Hello! I'm Jay.
 
 ## I'm currently working on...
-### Research.
-Recurrent neural networks for processing. Theoretical underpinnings for this
-(norms, dynamics, Lipschitzness, *etc.*).
+### Research
+A new class of neural network architectures.
 
 ## I'm currently learning...
-### Dynamical Systems Theory and Bifurcations
-Required for research.
+### W*-Algebras and Representation Categories
+Yeah.
 
 ## I'm looking to collaborate on...
-### Haskell projects.
-Specifically machine-learning-related.
+### Nothing
+A little too busy right now.
 
 ## I'm looking for help with...
-### Nothing.
-I'm fine right now.
+### Understanding cuDNN Algorithms
+Why does `tf32` exist? Seriously? What purpose does it serve?
+
+Oh boy you know what I *really* need? Less precision.
+Wonderful.
 
 ## Ask me about...
-### Haskell.
-Anything! It's my favorite language.
+### Haskell or Machine Learning.
+Anything!
 
 ## How to reach me...
 ### Email!
